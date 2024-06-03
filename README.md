@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I am Feng DING.
+
+![FengD's Profile Views](https://komarev.com/ghpvc/?username=FengD)
+
+![FengD's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengD&show_icons=true&theme=radical)
 
 <!--
 **FengD/FengD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
